@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PO8ProblemStatementLocatingAPlace</string>
+    <string-array name="district">
+        <item>East</item>
+        <item>North</item>
+        <item>South</item>
+    </string-array>
+
+
+</resources>
